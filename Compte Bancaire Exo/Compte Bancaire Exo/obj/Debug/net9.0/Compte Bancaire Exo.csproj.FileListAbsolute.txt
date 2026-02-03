@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\bin\Debug\net9.0\Compte Bancaire Exo.exe
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\bin\Debug\net9.0\Compte Bancaire Exo.deps.json
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\bin\Debug\net9.0\Compte Bancaire Exo.runtimeconfig.json
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\bin\Debug\net9.0\Compte Bancaire Exo.dll
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\bin\Debug\net9.0\Compte Bancaire Exo.pdb
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.dll
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\refint\Compte Bancaire Exo.dll
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.pdb
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\Compte Bancaire Exo.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Compte Bancaire Exo\Compte Bancaire Exo\obj\Debug\net9.0\ref\Compte Bancaire Exo.dll

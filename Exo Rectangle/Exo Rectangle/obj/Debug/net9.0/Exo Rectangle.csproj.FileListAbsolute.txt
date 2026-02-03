@@ -1,0 +1,4 @@
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\Exo Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\Exo Rectangle.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\Exo Rectangle.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\Exo Rectangle.csproj.CoreCompileInputs.cache

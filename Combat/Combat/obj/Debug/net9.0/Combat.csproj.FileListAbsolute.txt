@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Combat\Combat\bin\Debug\net9.0\Combat.exe
+C:\Users\userprf\Desktop\Combat\Combat\bin\Debug\net9.0\Combat.deps.json
+C:\Users\userprf\Desktop\Combat\Combat\bin\Debug\net9.0\Combat.runtimeconfig.json
+C:\Users\userprf\Desktop\Combat\Combat\bin\Debug\net9.0\Combat.dll
+C:\Users\userprf\Desktop\Combat\Combat\bin\Debug\net9.0\Combat.pdb
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.dll
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\refint\Combat.dll
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.pdb
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\Combat.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Combat\Combat\obj\Debug\net9.0\ref\Combat.dll

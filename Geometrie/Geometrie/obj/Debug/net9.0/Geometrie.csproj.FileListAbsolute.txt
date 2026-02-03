@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Geometrie\Geometrie\bin\Debug\net9.0\Geometrie.exe
+C:\Users\userprf\Desktop\Geometrie\Geometrie\bin\Debug\net9.0\Geometrie.deps.json
+C:\Users\userprf\Desktop\Geometrie\Geometrie\bin\Debug\net9.0\Geometrie.runtimeconfig.json
+C:\Users\userprf\Desktop\Geometrie\Geometrie\bin\Debug\net9.0\Geometrie.dll
+C:\Users\userprf\Desktop\Geometrie\Geometrie\bin\Debug\net9.0\Geometrie.pdb
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.dll
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\refint\Geometrie.dll
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.pdb
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\Geometrie.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Geometrie\Geometrie\obj\Debug\net9.0\ref\Geometrie.dll

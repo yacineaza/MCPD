@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Geometrie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|c:\\users\\userprf\\desktop\\geometrie\\geometrie\\exercicesformes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|solutionrelative:geometrie\\exercicesformes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|c:\\users\\userprf\\desktop\\geometrie\\geometrie\\exercicesformes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|solutionrelative:geometrie\\exercicesformes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|c:\\users\\userprf\\desktop\\geometrie\\geometrie\\exercicesformes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|solutionrelative:geometrie\\exercicesformes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|c:\\users\\userprf\\desktop\\geometrie\\geometrie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CAC64F-7CEF-4227-B831-7E069969062C}|Geometrie\\Geometrie.csproj|solutionrelative:geometrie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Cercle.cs",
+              "RelativeDocumentMoniker": "Geometrie\\ExercicesFormes\\Cercle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Cercle.cs",
+              "RelativeToolTip": "Geometrie\\ExercicesFormes\\Cercle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:08:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Geometrie\\ExercicesFormes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Rectangle.cs",
+              "RelativeToolTip": "Geometrie\\ExercicesFormes\\Rectangle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:58:57.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forme.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Forme.cs",
+              "RelativeDocumentMoniker": "Geometrie\\ExercicesFormes\\Forme.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\ExercicesFormes\\Forme.cs",
+              "RelativeToolTip": "Geometrie\\ExercicesFormes\\Forme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:56:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\Program.cs",
+              "RelativeDocumentMoniker": "Geometrie\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Geometrie\\Geometrie\\Program.cs",
+              "RelativeToolTip": "Geometrie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:53:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

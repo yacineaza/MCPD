@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Salarier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478C4443-DDC8-4FBF-85FB-AFC29AA0BE73}|Salarier\\Salarier.csproj|c:\\users\\userprf\\desktop\\salarier\\salarier\\salaire\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C4443-DDC8-4FBF-85FB-AFC29AA0BE73}|Salarier\\Salarier.csproj|solutionrelative:salarier\\salaire\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478C4443-DDC8-4FBF-85FB-AFC29AA0BE73}|Salarier\\Salarier.csproj|c:\\users\\userprf\\desktop\\salarier\\salarier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C4443-DDC8-4FBF-85FB-AFC29AA0BE73}|Salarier\\Salarier.csproj|solutionrelative:salarier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Salarie.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Salarier\\Salarier\\Salaire\\Salarie.cs",
+              "RelativeDocumentMoniker": "Salarier\\Salaire\\Salarie.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Salarier\\Salarier\\Salaire\\Salarie.cs",
+              "RelativeToolTip": "Salarier\\Salaire\\Salarie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:02:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Salarier\\Salarier\\Program.cs",
+              "RelativeDocumentMoniker": "Salarier\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Salarier\\Salarier\\Program.cs",
+              "RelativeToolTip": "Salarier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:58:06.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

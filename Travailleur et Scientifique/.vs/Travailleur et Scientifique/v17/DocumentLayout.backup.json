@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|c:\\users\\userprf\\desktop\\travailleur et scientifique\\travailleur et scientifique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|solutionrelative:travailleur et scientifique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|c:\\users\\userprf\\desktop\\travailleur et scientifique\\travailleur et scientifique\\laboratoire\\travailleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|solutionrelative:travailleur et scientifique\\laboratoire\\travailleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|c:\\users\\userprf\\desktop\\travailleur et scientifique\\travailleur et scientifique\\laboratoire\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|solutionrelative:travailleur et scientifique\\laboratoire\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|c:\\users\\userprf\\desktop\\travailleur et scientifique\\travailleur et scientifique\\laboratoire\\scientifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBF757A-164E-4383-BCB5-64B54A031BC2}|Travailleur et Scientifique\\Travailleur et Scientifique.csproj|solutionrelative:travailleur et scientifique\\laboratoire\\scientifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scientifique.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Scientifique.cs",
+              "RelativeDocumentMoniker": "Travailleur et Scientifique\\Laboratoire\\Scientifique.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Scientifique.cs",
+              "RelativeToolTip": "Travailleur et Scientifique\\Laboratoire\\Scientifique.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:52:18.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Personne.cs",
+              "RelativeDocumentMoniker": "Travailleur et Scientifique\\Laboratoire\\Personne.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Personne.cs",
+              "RelativeToolTip": "Travailleur et Scientifique\\Laboratoire\\Personne.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:37:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Travailleur.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Travailleur.cs",
+              "RelativeDocumentMoniker": "Travailleur et Scientifique\\Laboratoire\\Travailleur.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Laboratoire\\Travailleur.cs",
+              "RelativeToolTip": "Travailleur et Scientifique\\Laboratoire\\Travailleur.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:34:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Program.cs",
+              "RelativeDocumentMoniker": "Travailleur et Scientifique\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Travailleur et Scientifique\\Travailleur et Scientifique\\Program.cs",
+              "RelativeToolTip": "Travailleur et Scientifique\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:33:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

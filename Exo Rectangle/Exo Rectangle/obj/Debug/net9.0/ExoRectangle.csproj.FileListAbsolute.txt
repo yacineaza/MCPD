@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\bin\Debug\net9.0\ExoRectangle.exe
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\bin\Debug\net9.0\ExoRectangle.deps.json
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\bin\Debug\net9.0\ExoRectangle.runtimeconfig.json
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\bin\Debug\net9.0\ExoRectangle.dll
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\bin\Debug\net9.0\ExoRectangle.pdb
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.dll
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\refint\ExoRectangle.dll
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.pdb
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ExoRectangle.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Exo Rectangle\Exo Rectangle\obj\Debug\net9.0\ref\ExoRectangle.dll

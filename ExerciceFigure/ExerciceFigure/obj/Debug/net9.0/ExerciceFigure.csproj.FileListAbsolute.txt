@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\bin\Debug\net9.0\ExerciceFigure.exe
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\bin\Debug\net9.0\ExerciceFigure.deps.json
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\bin\Debug\net9.0\ExerciceFigure.runtimeconfig.json
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\bin\Debug\net9.0\ExerciceFigure.dll
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\bin\Debug\net9.0\ExerciceFigure.pdb
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.AssemblyInfo.cs
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.dll
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\refint\ExerciceFigure.dll
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.pdb
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ExerciceFigure.genruntimeconfig.cache
+C:\Users\userprf\Desktop\ExerciceFigure\ExerciceFigure\obj\Debug\net9.0\ref\ExerciceFigure.dll

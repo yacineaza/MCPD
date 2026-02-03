@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Toutou\Toutou\bin\Debug\net9.0\Toutou.exe
+C:\Users\userprf\Desktop\Toutou\Toutou\bin\Debug\net9.0\Toutou.deps.json
+C:\Users\userprf\Desktop\Toutou\Toutou\bin\Debug\net9.0\Toutou.runtimeconfig.json
+C:\Users\userprf\Desktop\Toutou\Toutou\bin\Debug\net9.0\Toutou.dll
+C:\Users\userprf\Desktop\Toutou\Toutou\bin\Debug\net9.0\Toutou.pdb
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.dll
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\refint\Toutou.dll
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.pdb
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\Toutou.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Toutou\Toutou\obj\Debug\net9.0\ref\Toutou.dll

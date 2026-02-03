@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Salarier\Salarier\bin\Debug\net9.0\Salarier.exe
+C:\Users\userprf\Desktop\Salarier\Salarier\bin\Debug\net9.0\Salarier.deps.json
+C:\Users\userprf\Desktop\Salarier\Salarier\bin\Debug\net9.0\Salarier.runtimeconfig.json
+C:\Users\userprf\Desktop\Salarier\Salarier\bin\Debug\net9.0\Salarier.dll
+C:\Users\userprf\Desktop\Salarier\Salarier\bin\Debug\net9.0\Salarier.pdb
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.dll
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\refint\Salarier.dll
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.pdb
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\Salarier.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Salarier\Salarier\obj\Debug\net9.0\ref\Salarier.dll

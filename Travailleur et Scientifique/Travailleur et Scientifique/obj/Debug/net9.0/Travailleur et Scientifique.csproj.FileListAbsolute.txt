@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\bin\Debug\net9.0\Travailleur et Scientifique.exe
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\bin\Debug\net9.0\Travailleur et Scientifique.deps.json
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\bin\Debug\net9.0\Travailleur et Scientifique.runtimeconfig.json
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\bin\Debug\net9.0\Travailleur et Scientifique.dll
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\bin\Debug\net9.0\Travailleur et Scientifique.pdb
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.dll
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\refint\Travailleur et Scientifique.dll
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.pdb
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\Travailleur et Scientifique.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Travailleur et Scientifique\Travailleur et Scientifique\obj\Debug\net9.0\ref\Travailleur et Scientifique.dll

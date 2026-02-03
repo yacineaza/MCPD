@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\bin\Debug\net9.0\Gestion de courrier.exe
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\bin\Debug\net9.0\Gestion de courrier.deps.json
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\bin\Debug\net9.0\Gestion de courrier.runtimeconfig.json
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\bin\Debug\net9.0\Gestion de courrier.dll
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\bin\Debug\net9.0\Gestion de courrier.pdb
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.dll
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\refint\Gestion de courrier.dll
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.pdb
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\Gestion de courrier.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Gestion de courrier\Gestion de courrier\obj\Debug\net9.0\ref\Gestion de courrier.dll

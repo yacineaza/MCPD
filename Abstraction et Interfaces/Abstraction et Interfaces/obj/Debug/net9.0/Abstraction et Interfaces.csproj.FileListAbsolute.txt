@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\bin\Debug\net9.0\Abstraction et Interfaces.exe
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\bin\Debug\net9.0\Abstraction et Interfaces.deps.json
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\bin\Debug\net9.0\Abstraction et Interfaces.runtimeconfig.json
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\bin\Debug\net9.0\Abstraction et Interfaces.dll
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\bin\Debug\net9.0\Abstraction et Interfaces.pdb
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.dll
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\refint\Abstraction et Interfaces.dll
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.pdb
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\Abstraction et Interfaces.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Abstraction et Interfaces\Abstraction et Interfaces\obj\Debug\net9.0\ref\Abstraction et Interfaces.dll

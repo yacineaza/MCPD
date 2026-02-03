@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Exo Classe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|c:\\users\\userprf\\desktop\\exo classe\\exo classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|solutionrelative:exo classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|c:\\users\\userprf\\desktop\\exo classe\\exo classe\\classe\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|solutionrelative:exo classe\\classe\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|c:\\users\\userprf\\desktop\\exo classe\\exo classe\\exo classe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEB1D34C-749D-43CB-B30F-9576D2F13764}|Exo Classe\\Exo Classe.csproj|solutionrelative:exo classe\\exo classe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chaise.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Classe\\Chaise.cs",
+              "RelativeDocumentMoniker": "Exo Classe\\Classe\\Chaise.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Classe\\Chaise.cs",
+              "RelativeToolTip": "Exo Classe\\Classe\\Chaise.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:55:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exo Classe",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Exo Classe.csproj",
+              "RelativeDocumentMoniker": "Exo Classe\\Exo Classe.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Exo Classe.csproj",
+              "RelativeToolTip": "Exo Classe\\Exo Classe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T10:53:35.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Program.cs",
+              "RelativeDocumentMoniker": "Exo Classe\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exo Classe\\Exo Classe\\Program.cs",
+              "RelativeToolTip": "Exo Classe\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:53:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
