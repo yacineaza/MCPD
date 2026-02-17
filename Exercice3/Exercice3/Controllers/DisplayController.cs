@@ -11,7 +11,7 @@ namespace Exercice3.Controllers
     
         public class DisplayController : Controller
         {
-            public IActionResult Index()
+            public IActionResult Display()
             {
                 string firstName = "Gilbert";
                 int age = 24;

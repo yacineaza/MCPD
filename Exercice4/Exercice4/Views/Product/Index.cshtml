@@ -1,0 +1,14 @@
+@model List<Exercice4.Models.Product>
+
+<h2>Liste des produits</h2>
+
+<ul>
+@foreach (Exercice4.Models.Product product in Model)
+{
+    <li>
+        <a href="/Product/Details/@product.Id">
+            @product.Name - @product.Price €
+        </a>
+    </li>
+}
+</ul>
