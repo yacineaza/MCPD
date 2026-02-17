@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Exercice3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\exercice3\\exercice3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46D301D6-7A9A-4023-8390-2E511652A35F}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exercice3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exercice3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T07:51:49.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercice3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exercice3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-17T07:48:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Models\\Class1.cs",
+              "RelativeToolTip": "Exercice3\\Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:57:07.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Controllers\\DisplayController.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Controllers\\DisplayController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Controllers\\DisplayController.cs",
+              "RelativeToolTip": "Exercice3\\Controllers\\DisplayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:52:27.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Program.cs",
+              "RelativeToolTip": "Exercice3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:46:07.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exercice3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exercice3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T15:46:02.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exercice3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exercice3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T15:45:57.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Exercice3\\Exercice3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:45:35.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
